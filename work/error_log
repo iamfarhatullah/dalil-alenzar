@@ -1,0 +1,6 @@
+[30-Dec-2019 17:12:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dalilalenzar/public_html/demo/admin/connection.php on line 7
+[30-Dec-2019 17:12:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dalilalenzar/public_html/demo/work/index.php on line 157
+[30-Dec-2019 17:12:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dalilalenzar/public_html/demo/work/index.php on line 158
+[30-Dec-2019 17:12:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dalilalenzar/public_html/demo/admin/connection.php on line 7
+[30-Dec-2019 17:12:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dalilalenzar/public_html/demo/work/index.php on line 157
+[30-Dec-2019 17:12:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dalilalenzar/public_html/demo/work/index.php on line 158

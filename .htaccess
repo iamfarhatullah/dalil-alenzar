@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTPS_HOST} ^dalil-alenzar.com [NC]
+RewriteRule ^(.*)$ https://www.dalil-alenzar.com/$1 [L,R=301,NC]
+
+ErrorDocument 404 /404.html
